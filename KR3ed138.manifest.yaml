@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed138_000.yaml, hash: 'sha256:9f310ca947eaf52bcab99f3d515158858dd244f62ccc32b831ffebebe47f0ae4'}
+  - {seq: 0, filename: KR3ed138_000.yaml, hash: 'sha256:15c3225b0966e56390712fee189dd154bbe093aea97665ed7d1b97a810029849'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed138_000.markers.yaml, hash: 'sha256:36cac65b639a2739a8b0bfb8a2cd59be655dd14f19a3f35f6e6293221562230d'}
+  - {seq: 0, role: markers, filename: assets/KR3ed138_000.markers.yaml, hash: 'sha256:c965c0aa2963f32997d1dd68d012c96add603d9b7f9353c83e62932873b6ab3c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -631,7 +631,4 @@ table_of_contents:
   label: 刺痧法
   type: section
   level: 2
-hash: sha256:0d3169b2fe48a3a4d53cb058b99ada9230b82e6a9678749ffa66d808fd11865f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:df2c8ec9ab5b6e58197b9e3001ea9f04d6dddf76d3b82ce28b0c6e919f918d47
