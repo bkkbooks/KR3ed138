@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed138/v1
 canonical_location: https://kanripo.org/bkk/KR3ed138/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 潛齋簡效方（附醫話）
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed138_000.yaml, hash: 'sha256:15c3225b0966e56390712fee189dd154bbe093aea97665ed7d1b97a810029849'}
+  - {seq: 0, filename: KR3ed138_000.yaml, hash: 'sha256:540080d5ea9186fd9df86e8fc364323833f5dc6818706634c45821c24deb2047'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed138_000.markers.yaml, hash: 'sha256:c965c0aa2963f32997d1dd68d012c96add603d9b7f9353c83e62932873b6ab3c'}
+  - {seq: 0, role: markers, filename: assets/KR3ed138_000.markers.yaml, hash: 'sha256:a69879bdfe36f9949d1230be64386113ee8a02640cef43c99068760c08853e91'}
 table_of_contents:
 - ref:
     seq: 0
@@ -631,4 +631,7 @@ table_of_contents:
   label: 刺痧法
   type: section
   level: 2
-hash: sha256:df2c8ec9ab5b6e58197b9e3001ea9f04d6dddf76d3b82ce28b0c6e919f918d47
+hash: sha256:7ae12f51580a404aad09c37b8964e5317f667625d063bb9dd0b9b261f9faac42
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
