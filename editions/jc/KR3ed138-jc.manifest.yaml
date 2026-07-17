@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed138_000-jc.yaml, hash: 'sha256:15c3225b0966e56390712fee189dd154bbe093aea97665ed7d1b97a810029849'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed138_000-jc.markers.yaml, hash: 'sha256:3562cf1d62fbd10996d8478d9fb2a7ffc6a6fd4524cd06f6ea2f87b5b28c61d1'}
+  - {seq: 0, role: markers, filename: assets/KR3ed138_000-jc.markers.yaml, hash: 'sha256:bcf074ab373a2132b5ceddf50b61a4ca5b74a11fcfa80aa1a52124cfbdecbb89'}
 table_of_contents:
 - ref:
     seq: 0
@@ -631,4 +631,4 @@ table_of_contents:
   label: 刺痧法
   type: section
   level: 2
-hash: sha256:0f248f8e9a23e2316f626d7da1c62e98a93659c807c829d60cd6a7616312a031
+hash: sha256:a550dc406df8a620f62213670f118eafa7d85504a0fa24361989d8b80f1b97ef

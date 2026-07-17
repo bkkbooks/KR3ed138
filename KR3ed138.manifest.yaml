@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed138_000.yaml, hash: 'sha256:540080d5ea9186fd9df86e8fc364323833f5dc6818706634c45821c24deb2047'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed138_000.markers.yaml, hash: 'sha256:a69879bdfe36f9949d1230be64386113ee8a02640cef43c99068760c08853e91'}
+  - {seq: 0, role: markers, filename: assets/KR3ed138_000.markers.yaml, hash: 'sha256:825208cfd9a77d1d3544b84855d36d6032ab48e7fa4de4b9123b27726ef11188'}
 table_of_contents:
 - ref:
     seq: 0
@@ -631,7 +631,7 @@ table_of_contents:
   label: 刺痧法
   type: section
   level: 2
-hash: sha256:7ae12f51580a404aad09c37b8964e5317f667625d063bb9dd0b9b261f9faac42
+hash: sha256:ada49d86fd3a8b79cc23488d044f05a211df18f52e4c13638dd1dfc9550d71ab
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
